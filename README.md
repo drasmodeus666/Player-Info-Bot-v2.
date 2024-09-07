@@ -3,12 +3,12 @@
 <b>The bot is created using discord.js V13.</b><b> The bot will automatically create a JSON file to store all the player data after informations are given    </b>
 
 The Bot Includes : <br> <br>
-ping.js: Checks if the bot is responsive. <br><br>
-addplayer.js: Adds a player to the data.<br><br>
-removeplayer.js: Removes a player from the data. <br><br>
-getplayer.js: Retrieves player information. <br><br>
-info.js: Provides information about the bot or a player. <br><br>
-help.js: Lists all available commands and their usage. <br><br>
+/ping: Checks if the bot is responsive. <br><br>
+/addplayer: Adds a player to the data.<br><br>
+/removeplayer: Removes a player from the data. <br><br>
+/getplayer: Retrieves player information. <br><br>
+/info: Provides information about the bot or a player. <br><br>
+/help: Lists all available commands and their usage. <br><br>
 
 <b>The Bot Also Has Global Slash Commands Registration Included. </b> <br>
 
