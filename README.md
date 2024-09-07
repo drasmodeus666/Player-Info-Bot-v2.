@@ -58,11 +58,11 @@ Replace your-bot-token, your-client-id, and your-guild-id with your actual bot t
 config.json File: Create or update the config.json file in the root directory with the necessary configuration:
 JSON
 
-`{
-  "token": "your-bot-token",
-  "clientId": "your-client-id",
-  "guildId": "your-guild-id"
-}`
+{
+ ` "token": "your-bot-token",`  <br> 
+  `"clientId": "your-client-id",`  <br>
+  `"guildId": "your-guild-id"`  <br>
+}
 Replace your-bot-token, your-client-id, and your-guild-id with your actual bot token, client ID, and guild ID. <br> <br>
 
 
