@@ -47,11 +47,11 @@ Make sure you have Node.js installed. Then, install the required dependencies:
 
 4. Configure Environment Variables and Config File
 .env File: Ensure your .env file in the root directory contains the following variables:
-`DISCORD_TOKEN=your-bot-token` <br> <br>
+`DISCORD_TOKEN=your-bot-token` <br>
 
-`CLIENT_ID=your-client-id` <br> <br>
+`CLIENT_ID=your-client-id` <br>
 
-`GUILD_ID=your-guild-id` <br> <br>
+`GUILD_ID=your-guild-id` <br>
 
 Replace your-bot-token, your-client-id, and your-guild-id with your actual bot token, client ID, and guild ID.
 
